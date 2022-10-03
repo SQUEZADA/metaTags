@@ -1,3 +1,11 @@
+# Mejoras planeadas
+
+1- Agregar lectura de archivo de configuracion para ver los datos de las redes.
+
+2- hacer un repositorio NPM y que se pueda usar en los diferentes frameworks
+
+3- Agregar GTM a los tags disponibles.
+
 # Guía sobre el uso compartido de contenido para administradores web
 
 En este documento se describe cómo optimizar el contenido alojado en la web que se comparte en Facebook y Twitter, independientemente de si se comparte desde un ordenador, una web móvil o una aplicación para móviles.
